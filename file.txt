@@ -1,2 +1,3 @@
 My first line in project
 Paris is the capital of France
+Changes which must go to a commit
